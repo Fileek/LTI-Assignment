@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Product 1",
+        "description": "Description of product 1",
+        "price": 15.5,
+        "rating": 4.0,
+        "id": 1
+    },
+    {
+        "name": "Product 2",
+        "description": "Description of product 2",
+        "price": 21.0,
+        "rating": 3.5,
+        "id": 2
+    },
+    {
+        "name": "Product 3",
+        "description": "Description of product 3",
+        "price": 26.5,
+        "rating": 4.0,
+        "id": 3
+    },
+    {
+        "name": "Product 4",
+        "description": "Description of product 4",
+        "price": 32.0,
+        "rating": 3.5,
+        "id": 4
+    },
+    {
+        "name": "Product 5",
+        "description": "Description of product 5",
+        "price": 37.5,
+        "rating": 4.0,
+        "id": 5
+    },
+    {
+        "name": "Product 6",
+        "description": "Description of product 6",
+        "price": 43.0,
+        "rating": 3.5,
+        "id": 6
+    },
+    {
+        "name": "Product 7",
+        "description": "Description of product 7",
+        "price": 48.5,
+        "rating": 4.0,
+        "id": 7
+    },
+    {
+        "name": "Product 8",
+        "description": "Description of product 8",
+        "price": 54.0,
+        "rating": 3.5,
+        "id": 8
+    },
+    {
+        "name": "Product 9",
+        "description": "Description of product 9",
+        "price": 59.5,
+        "rating": 4.0,
+        "id": 9
+    },
+    {
+        "name": "Product 10",
+        "description": "Description of product 10",
+        "price": 65.0,
+        "rating": 3.5,
+        "id": 10
+    },
+    {
+        "name": "Product 11",
+        "description": "Description of product 11",
+        "price": 70.5,
+        "rating": 4.0,
+        "id": 11
+    },
+    {
+        "name": "Product 12",
+        "description": "Description of product 12",
+        "price": 76.0,
+        "rating": 3.5,
+        "id": 12
+    },
+    {
+        "name": "Product 13",
+        "description": "Description of product 13",
+        "price": 81.5,
+        "rating": 4.0,
+        "id": 13
+    },
+    {
+        "name": "Product 14",
+        "description": "Description of product 14",
+        "price": 87.0,
+        "rating": 3.5,
+        "id": 14
+    },
+    {
+        "name": "Product 15",
+        "description": "Description of product 15",
+        "price": 92.5,
+        "rating": 4.0,
+        "id": 15
+    },
+    {
+        "name": "Product 16",
+        "description": "Description of product 16",
+        "price": 98.0,
+        "rating": 3.5,
+        "id": 16
+    },
+    {
+        "name": "Product 17",
+        "description": "Description of product 17",
+        "price": 103.5,
+        "rating": 4.0,
+        "id": 17
+    },
+    {
+        "name": "Product 18",
+        "description": "Description of product 18",
+        "price": 109.0,
+        "rating": 3.5,
+        "id": 18
+    },
+    {
+        "name": "Product 19",
+        "description": "Description of product 19",
+        "price": 114.5,
+        "rating": 4.0,
+        "id": 19
+    },
+    {
+        "name": "Product 20",
+        "description": "Description of product 20",
+        "price": 120.0,
+        "rating": 3.5,
+        "id": 20
+    }
+]
